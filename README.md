@@ -1,2 +1,5 @@
 # Markdown-language
-basics of Markdown
+
+Markdown is a simple and easy-to-learn language
+Basics of Markdown
+
